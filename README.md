@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @superboi211
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning fortran
+- 🌱 I’m currently creating a programming language
 
 <!---
 superboi211/superboi211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
